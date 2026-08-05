@@ -1,4 +1,4 @@
-###Miguel Angel Ortiz Castillo
+#Miguel Angel Ortiz Castillo
 ### Sobre mi
 Soy **aprendiz** que esta aprendiendo sobre **ADSO**(*analisis y desarrollo de software*) y tengo 19 años
 ###Mi objetivo 
